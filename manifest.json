@@ -1,6 +1,6 @@
 {
   "name": "Sneaky_Viking",
-  "description": "Performance-focused mod that reduces movement noise based on your Sneak skill.",
+  "description": "Performance-focused mod that reduces movement noise based on your Sneak skill other than sneaking.",
   "version_number": "1.0.0",
   "website_url": "https://github.com/Brutaliaa/SneakyViking",
   "dependencies": []

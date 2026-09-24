@@ -1,6 +1,6 @@
 # Sneaky Viking
 
-I was tired that vanilla sneak skill isn't doing much. This mod basically makes you do less and less [noise](https://valheim.weirdgloop.org/w/Creature_senses) based on your current sneak skill level. The reduction is configurable in the settings. I recommend using Azus UnOfficial ConfigManager for this, or use your favorite one.
+I was tired that vanilla sneak skill isn't doing much. This mod basically makes you do less and less [noise](https://valheim.weirdgloop.org/w/Creature_senses) based on your current sneak skill level when walking/running/swimming/dodging. The reduction is configurable in the settings. I recommend using Azus UnOfficial ConfigManager for this, or use your favorite one.
 
 `Version checks with itself. If installed on the server, it will kick clients who do not have it installed.`
 
